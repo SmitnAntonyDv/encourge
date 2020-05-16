@@ -1,0 +1,3 @@
+const encouragingWords = "Keep working on it. it's completely normal for you to feel overwelhmed at this point in the course. Know that it is normal to feel pressured right now, just keep working. You will be fine, as you keep working - the concepts and structures that you previously thought were hard will slowly start to become easier. and before you know it, you will feel pressured again with new challanges annd the concepts that you feel are pressuring you know will feel like the most easiest thing in the world. KEEP FIGHTING you got this! do not give up, you are only defeated in the moment where you gove up."
+
+console.log(encouragingWords);
